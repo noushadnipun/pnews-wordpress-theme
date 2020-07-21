@@ -943,7 +943,7 @@
                     //'disable_save_warn' => true,                    // Disable the save warning when a user changes a field
 
                     // OPTIONAL -> Give you extra features
-		    'page_type'        => menu,
+					'page_type'        => 'menu',
                     'page_priority'        => 60,
                     // Order where the menu appears in the admin area. If there is any conflict, something will not show. Warning.
                     'page_parent'          => 'themes.php',
